@@ -25,32 +25,46 @@
 
 ## 🧑‍💻 About Me
 
-```dart
-class RaselAhammed {
+<div align="center">
 
-  final String role       = "Flutter App Developer";
-  final String location   = "📍 Makkah, Saudi Arabia";
-  final String hometown   = "🇧🇩 Comilla, Bangladesh";
-  final String experience = "2 Years";
-  final bool   openToWork = true;
+| | |
+|:---:|:---|
+| 👨‍💻 | **Flutter App Developer** |
+| 📍 | Makkah, Saudi Arabia |
+| 🇧🇩 | Originally from Comilla, Bangladesh |
+| ⏳ | 2 Years of Experience |
+| 📧 | raselahmedadnan@gmail.com |
+| 🟢 | **Open to Work** |
 
-  final Map<String, bool> availability = {
-    "🌍 Remote — Worldwide"       : true,
-    "🇸🇦 On-site — Saudi Arabia"  : true,
-    "🇧🇩 On-site — Bangladesh"    : true,
-  };
+</div>
 
-  final List<String> languages = [
-    "Bengali 🇧🇩  Native",
-    "Arabic  🇸🇦  Conversational",
-    "English 🇬🇧  Conversational",
-    "Urdu    🇵🇰  Proficient",
-    "Hindi   🇮🇳  Proficient",
-  ];
+---
 
-  void contact() => print("raselahmedadnan@gmail.com");
-}
-```
+### 🌍 Availability
+
+<div align="center">
+
+![Remote](https://img.shields.io/badge/🌍_Remote-Worldwide-6366f1?style=for-the-badge)
+![Saudi](https://img.shields.io/badge/🇸🇦_Onsite-Saudi_Arabia-06b6d4?style=for-the-badge)
+![Bangladesh](https://img.shields.io/badge/🇧🇩_Onsite-Bangladesh-22c55e?style=for-the-badge)
+
+</div>
+
+---
+
+### 🗣️ Languages
+
+<div align="center">
+
+| Language | Level | Proficiency |
+|:---:|:---:|:---:|
+| 🇧🇩 Bengali | Native | ██████████ 100% |
+| 🇸🇦 Arabic | Conversational | ██████▓░░░ 65% |
+| 🇬🇧 English | Conversational | ██████░░░░ 60% |
+| 🇵🇰 Urdu | Proficient | ███████▓░░ 78% |
+| 🇮🇳 Hindi | Proficient | ███████░░░ 75% |
+
+</div>
 
 ---
 
