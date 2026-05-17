@@ -178,7 +178,7 @@
 
 | 📧 Email | 💼 LinkedIn | 🌐 Portfolio | 📱 Play Store |
 |:---:|:---:|:---:|:---:|
-| [raselahmedadnan@gmail.com](mailto:raselahmedadnan@gmail.com) | [rasel-ahammed-flutter](https://linkedin.com/in/rasel-ahammed-flutter) | [Visit Portfolio](https://raselahmedadnan.github.io/my-portfolio/) | [Homna eSheba](https://play.google.com/store/apps/details?id=com.homna.esheba.app) |
+| [raselahmedadnan@gmail.com](mailto:raselahmedadnan@gmail.com) | [rasel-ahammed]([https://linkedin.com/in/rasel-ahammed-flutter](https://www.linkedin.com/in/raselahmedadnan/)) | [Visit Portfolio](https://raselahmedadnan.github.io/my-portfolio/) | [Homna eSheba](https://play.google.com/store/apps/details?id=com.homna.esheba.app) |
 
 </div>
 
